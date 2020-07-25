@@ -1,0 +1,2 @@
+c:\users\hal\documents\visual studio 2012\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+c:\users\hal\documents\visual studio 2012\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
